@@ -24,6 +24,7 @@ Create a nonce:
 
 ```php
 $nonce = new Dinamiko\Nonces\Nonce( 'my-action' );
+$nonce_value = (string) $nonce;
 ```
 
 Create a nonce field:
