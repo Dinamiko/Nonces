@@ -6,7 +6,6 @@
             "email": "emili.castells@dinamiko.com"
         }
     ],
-    "require": {},
     "autoload": {
       "psr-4": {
         "Dinamiko\\Nonces\\": "src"
