@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Dinamiko Nonces allows working with WordPress Nonces in an easy way.
+A simple to use implementation of WordPress Nonces.
 
 ## Table of Contents
 
