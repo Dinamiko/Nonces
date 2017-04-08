@@ -6,7 +6,7 @@
             "email": "emili.castells@dinamiko.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
       "psr-4": {
         "Dinamiko\\Nonces\\": "src"
